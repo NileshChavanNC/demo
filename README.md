@@ -1,3 +1,3 @@
-<h1 style="color : red">
+<h1 >
   Here is Demo repository
 </h1>
